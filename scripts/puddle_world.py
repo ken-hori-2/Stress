@@ -131,4 +131,4 @@ def trial():  ###puddle_world4_trial
      
     world.draw()
     
-#trial()
+trial() # コメントアウト
